@@ -37,6 +37,7 @@ Neste ciclo, foram analisados os dados de serviço e informações do usuário.
 Dados de Serviço:
 Algo interessante que no marketing não tem apenas a maioria de vendas para um gênero de publico alvo, são bem compativel os dois e equivale ao mesmo.
 A maioria do clientes o publico alvo a idade é em média dos 30 aos 34.
+
 Ao porcentos dos clicks depois de ver os anúncios, os homens acabam saindo da frente das mulheres, então produtos masculinos chama mais atenção dos homens ao clicar.
 
 O foco do projeto foi mais na realização de aprovação ao clicks e o caminho aonde chegar até aprovação, então,  fiz diversos gráficos demosntrando as idades com clicks, com aprovação e os totais de conversões.
@@ -63,5 +64,4 @@ Já o valor de R-squared score de 0.99370730670178 indica que o modelo está exp
 
 Esses resultado diz que o modelo está se saindo bem, e explicando completamente tendo poucos desvios.
 
-
-
+Temos como resposta que quanto você mais gastar para voltar vendas, isso não garante realmente vendas e sim, visibilidade. Onde , como resposta, precisamos de uma campanha e marketing muito boa para chamar atenção do usuário e que possa resolver a dor do seu usuário. 
